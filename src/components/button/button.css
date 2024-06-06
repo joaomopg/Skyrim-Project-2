@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+
+#button {
+    font-size: 20px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    color: aliceblue;
+    background-color: cornflowerblue;
+    cursor: pointer;
+    transition: 0.8s;
+    border: none;
+    border-radius: 4px;
+    width: 160px;
+    height: 80px;
+}
+#button:hover{
+    scale: 1.1;
+    background-color: white;
+    color: black;
+}
